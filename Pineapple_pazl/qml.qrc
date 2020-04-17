@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Pineapple.qml</file>
+        <file>Images/flamingo.png</file>
+        <file>Images/Geometricheskie-kartiny-Eduardo-Rodriguez-Calzado.jpg</file>
+        <file>Images/pineappleLeft.svg</file>
+        <file>Images/pineappleRight.svg</file>
+        <file>Images/CoreKvadLeft.svg</file>
+        <file>Images/CoreKvadRight.svg</file>
+        <file>Images/CoreLeft.svg</file>
+        <file>Images/CoreRight.svg</file>
+        <file>Images/pineappleCore.svg</file>
+    </qresource>
+</RCC>
